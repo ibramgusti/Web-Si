@@ -1,2 +1,2 @@
 # Web-Si
-not secure
+yang Done tinggal sambungin Database
